@@ -29,7 +29,12 @@ My project is a website for a local pest control business that my dad is in char
 
 ![Design image](260sketch.pdf)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Top Banner with phone number.The homepage will have a header with a logo and navigation (Services | About Us | Contact | Sign in)
+Followed by Deals/ Promotions.
+Summary of Services
+Some Stadistics/ Reviews
+Schedule an Appointment
+(can be simplified if needed)
 
 ```mermaid
 sequenceDiagram
@@ -48,12 +53,12 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Homepage: Banner, Navigation,deals,services, stats, appointment section
+- **CSS** - Style based on company colors (Black and Orange) Animations for buttons and separate each category.
+- **React** - Store information while the user is on the site, show right page when user clicks on a category
+- **Service** - Shows available services/ current appointments. Allows user to log in/register and create apointments. Use weather API.
+- **DB/Login** - Stores user info ( email,password, history)
+- **WebSocket** - User dashboard after they log in updates when a new schedule is made/ canceled/completed.
 
 ## 🚀 AWS deliverable
 
