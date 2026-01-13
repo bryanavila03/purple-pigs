@@ -23,17 +23,19 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-My project is a website for a local pest control business that my dad is in charge of. I want to create a website that will allow customers to create/log in to their accounts, see their upcoming appointsments and view what services are offered. Under services offered, users can see a descriptive subpage of what it does,treat, cost.Users will hace acess to a dashboard where they can see their appointment history, and customize their adress/ phone number etc. (can be simplified to meet the class requirements)
+I'm going to make a website for a local pest control business that my dad is in charge of. I want to create a website that will allow customers to create/log in to their accounts, see their upcoming appointments, and view what services are offered. Under the services offered, users can see a descriptive subpage of their current services and how much they cost. Users will have access to a dashboard where they can see their appointment history, and customize their address/ phone number, etc. (can be simplified to meet the class requirements)
 ### Design
 
 ![Design image](260sketch.pdf)
 
-Top Banner with phone number.The homepage will have a header with a logo and navigation (Services | About Us | Contact | Sign in)
+Top Banner with phone number. The homepage will have a header with a logo and navigation (Services | About Us | Contact | Sign in)
 Followed by Deals/ Promotions.
 Summary of Services
-Some Stadistics/ Reviews
+Some Statistics/ Reviews
 Schedule an Appointment
 (can be simplified if needed)
+
+
 
 ```mermaid
 sequenceDiagram
@@ -52,12 +54,13 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Homepage: Banner, Navigation,deals,services, stats, appointment section
-- **CSS** - Style based on company colors (Black and Orange) Animations for buttons and separate each category.
-- **React** - Store information while the user is on the site, show right page when user clicks on a category
-- **Service** - Shows available services/ current appointments. Allows user to log in/register and create apointments. Use weather API.
-- **DB/Login** - Stores user info ( email,password, history)
-- **WebSocket** - User dashboard after they log in updates when a new schedule is made/ canceled/completed.
+- **HTML** - Homepage: Banner, Navigation, deals, services, stats, appointment section
+- **CSS** - Style based on company colors (Black and Orange), and use animations for the buttons.
+- **React** - Store information while the user is on the site, show the right page when the user clicks on a category
+- **Service** - Shows available services/ current appointments. Allows users to log in/register and create appointments. Use the weather API.
+- **DB/Login** - Stores user info ( email, password, history)
+- **WebSocket** - The User dashboard after they log in updates when a new schedule is made/ canceled/or completed.
+
 
 ## 🚀 AWS deliverable
 
