@@ -66,21 +66,22 @@ I am going to use the required technologies in the following ways.
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **Server deployed and accessible with custom domain name** - [My server link](https://yourdomainnamehere.click).
+- [x] **Server deployed and accessible with custom domain name** - [My server link](https://phoenixpests.com).
 
 ## 🚀 HTML deliverable
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
-- [ ] **Links** - I did not complete this part of the deliverable.
-- [ ] **Text** - I did not complete this part of the deliverable.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
+- [x] **HTML pages** - Six HTML pages that allow the user navigate through the website.
+- [x] **Proper HTML element usage** - I used BODY,NAV,MAIN,HEADER,FOOTER,DIV,SPAN,FOLDER. 
+- [x] **Links** - Created links to navigate through the website(the different navigation links such as ,Services,About Us, Contact Us, Sign in)
+- [x] **Text** - Used text of different size to emphasize the most important elements.
+- [x] **3rd party API placeholder** - Made a placeholder for my weather API, that will show the current weather.
+- [x] **Images** - I included placeholder images because I wasn't sure exactly what i want to put there.
+- [x] **Login placeholder** - Made a Log In button that users can use.
+- [x] **DB data placeholder** - After logging in, the user can see their service history/ personal information.
+- [x] **WebSocket placeholder** - The user can see live updates of the services they bought, and when they are completed.
 
 ## 🚀 CSS deliverable
 
